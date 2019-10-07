@@ -1,8 +1,8 @@
 capsule-info {
   display-name (__DISPLAY_NAME__)
-  developer-name (__COMPANY_NAME__)
+  developer-name (SSAFT_DaeJeon)
   icon-asset (icon.png)
-  description ("__DESCRIPTION__")
+  description ("Dr. Bixby offers information of common dieases which users want to know")
   website-url (https://example.com/)
   terms-url (https://example.com/terms-of-use/)
 }
