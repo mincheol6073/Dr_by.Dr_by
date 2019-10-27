@@ -1,38 +1,5 @@
-# doctorbixby.doctorbixby 팀 공지사항
+# Dr.bixby 주의사항
 
-사전절차
-1. 각자 이메일 DoctorBixby 초대 확인
-2. https://bixbydevelopers.com/ 접속
-3. 회원가입 & Bixby Developer Studio 다운로드
-4. 삼성 아이디 김민철한테 전송
-5. Bixby Developer Studio 실행 > 로그인> create New Capsule > "example.dfsfd" 생성
-
-
-깃 저장소 생성법
-1. c > 사용자 > student > bixby-workspace
-2. 폴더안엔서 우클릭 git bash 실행
-3. git bash 안에서 git init 실행
-4. git config --global user.name "유저이름"
-5. git config --global user.email "메일"
-6. git clone https://github.com/mincheol6073/doctorbixby.doctorbixby.git
-7. git remote add origin https://github.com/mincheol6073/doctorbixby.doctorbixby.git
-8. git branch 브랜치명
-9. git checkout 브랜치명
-
-깃 내용 업데이트하는법
-1. git status // 변경내용 확인
-2. git add 파일명 // 전체를 업로드 할경우 보통 파일명에 * 를씀
-3. git commit -m '업데이트 내용' // 업데이트 내용으로 commit (프로그램 리턴 분기점이기 때문에 내용 꼭 작성)
-4. git push -u origin 브랜치명
-
-병합하는 방법
-1. git checkout 팀명 // 팀명 branch로 이동
-2. git merge 자신 // 자신의 branch로 부터 merge 작업 수행
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ충돌 발생시 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-3. 충돌이 생길시 충돌 해결 후
-4. git add * > git commit -m '충돌해결 내용' > git push -u origin 팀명
-
-etc / 기타 궁금한 사항들은 김민철한테 물어보기
-git pull : 서버와 동기화
-git reset : 작업 실행취소
-git rm --cache 폴더 : 원격저장소 디렉터삭제
+1. 이 정보는 완전하지 않으며, 의사나 기타 의료 전문가에 대한 진료 방문, 전화, 자문이나 조언을 대체해 사용되지 않아야 합니다.
+2. Dr.bixby 는 건강 문제의 자가 관리를 권장하지 않습니다. 의료 관련 질문이 있을 경우, 신속하게 의사나 기타 의료 전문가에게 전화하거나 진료를 받으시기 바랍니다.
+3. 여기서 읽은 내용으로 인해 결코 의학적 조언을 무시하거나 그러한 조언을 구할 때 지체하지 않아야 합니다.하시고 꼭 의사와 상담하시기 바랍니다.
